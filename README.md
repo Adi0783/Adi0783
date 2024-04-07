@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Adi0783
-- 👀 I’m interested in Amity University 
+- 👀 I’m pursuing BCA from amity University
 - 🌱 I’m currently learning Data science
 - 💞️ I’m looking to collaborate on certain projects
 - 📫 you can reach me on 7389752580
